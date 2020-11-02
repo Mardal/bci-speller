@@ -3,7 +3,7 @@ Working to build BCI speller with fancy ML and cool code architecture, then go a
 
 # Set up
 * clone repo using: ```https://github.com/neurodudes/bci-speller.git```
-* install pipenv
+* install [pipenv](https://pypi.org/project/pipenv/) (the process depends on your OS)
 * run ```cd ./bci-speller && pipenv install```
 * download [this](https://drive.google.com/drive/folders/1wcuOlZfpcDvlIwHJi1cllZ1VXqlcvWT2?usp=sharing) and put it to bci-speller directory
 

@@ -1,3 +1,5 @@
+# SOURCE: https://www.kaggle.com/c/inria-bci-challenge/discussion/11009
+
 # coding: utf-8
 
 """

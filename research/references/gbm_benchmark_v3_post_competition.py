@@ -1,3 +1,5 @@
+# SOURCE: https://www.kaggle.com/c/inria-bci-challenge/discussion/11056
+
 ## author: phalaris
 ## kaggle bci challenge gbm benchmark
 ## The subject columns caused problems with inter-subject ROC AUC 

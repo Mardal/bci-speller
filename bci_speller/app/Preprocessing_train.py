@@ -39,7 +39,7 @@ for i in range(1, len(stimulus)):
     else:
         true.append(i)
 keys = np.delete(keys, rerun)
-stimul = np.delete(stimulus, rerun)
+stimulus = np.delete(stimulus, rerun)
 
 samples = np.zeros((len(keys), ch_count, sample_use))
 for i in range(len(keys)):
